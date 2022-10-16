@@ -15,6 +15,7 @@ https://github.com/21yong0525/student-record-program2
 | OS | Windows 11 Pro |
 | Language | Java 17.0.4.1 |
 | Editor | Eclipse 2022-08-R Packages |
+| DBMS | MySQL Workbench 8.0 |
 | Github | https://github.com/21yong0525/student-record-program3 |
 
 ## 개발기간
