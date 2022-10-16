@@ -21,6 +21,8 @@ https://github.com/21yong0525/student-record-program2
 
 2022.09.17(토) ~ 2022.09.18(일)
 
+## 모델링
+![image](https://user-images.githubusercontent.com/115531869/196024283-49b4392b-99a2-46b2-944e-ba5071c3b7e0.png)
 
 ## 기능 요약 및 설명
 
